@@ -8,5 +8,6 @@
     "dmResponse": "",
     "webhook": "",
     "webhookPing": "",
-    "repeatBypass": ""
+    "repeatBypass": "",
+    "password": "Dog123"
 }
